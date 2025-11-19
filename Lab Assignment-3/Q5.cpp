@@ -3,6 +3,7 @@
 #include <cmath>
 using namespace std;
 
+
 const int MAX = 100;
 int stack[MAX];
 int top = -1;
@@ -63,3 +64,4 @@ int main() {
 
     return 0;
 }
+
